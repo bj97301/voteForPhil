@@ -5,4 +5,4 @@ How to automatically vote for Phil 100 times without getting carpal tunnel.
 * Copy and paste the script into the source tab in the Selenium IDE then press play.  
 
 The script<BR>
-<iframe src="./voteForPhilSeleniumScript.html"</iframe>
+https://raw.githubusercontent.com/bj97301/voteForPhil/master/voteForPhilSeleniumScript.html
