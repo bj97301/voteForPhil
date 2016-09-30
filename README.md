@@ -10,7 +10,7 @@ Click on tools then select `Selenium IDE`:<BR>
 ## Next, copy and paste the script
 1.  Click the `Source` tab:<BR>
 ![your internet may suxzor](./images/srcTab.png)
-2.  Open the script https://raw.githubusercontent.com/bj97301/voteForPhil/master/voteForPhilSeleniumScript.html
+2.  Open the script by clicking on the link below:<BR> https://raw.githubusercontent.com/bj97301/voteForPhil/master/voteForPhilSeleniumScript.html
 3.  Select everything from the link above then copy it
 4.  Paste all of it into the `Source` text area as shown below:
 ![your internet may suxzor](./images/srcTabPaste.png)<BR>
@@ -23,7 +23,7 @@ Click on tools then select `Selenium IDE`:<BR>
 3. Also, feel free to thumbs up my comment so you can save other beautiful faces from getting carpal tunnel
 
 Direct link to the script<BR>
-https://raw.githubusercontent.com/bj97301/voteForPhil/master/voteForPhilSeleniumScript.html
+https://github.com/bj97301/voteForPhil/blob/master/voteForPhilSeleniumScript.html
 
 Love ya,<BR>
    -Bryan
