@@ -4,7 +4,7 @@ How to automatically vote for Phil 100 times without getting carpal tunnel.
 ## First, get Selenium IDE for Firefox
 Go to https://addons.mozilla.org/en-us/firefox/addon/selenium-ide/ and click the `Add to Firefox button`:<BR>
 ![your internet may suxzor](./images/addToFF.png)
-## Next, open the Selenium
+## Next, open Selenium
 Click on tools then select `Selenium IDE`:<BR>
 ![your internet may suxzor](./images/tools.png)
 ## Next, copy and paste the script
