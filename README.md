@@ -22,6 +22,11 @@ Click on tools then select `Selenium IDE`:<BR>
 ![your internet may suxzor](./images/runButton.png)<BR>
 3. Also, feel free to thumbs up my comment so you can save other beautiful faces from getting carpal tunnel
 
+
+### Not working?  Need help?
+* Try voting once on the site by going to http://votedefranco.com and clicking through the process till you see the vote again button.  After you do this you should be able to run the script again with success<BR>
+* If you have any other questions or issues feel free to open an issue by going to the top of this page and clicking the `Issues` tab.  
+
 Direct link to the script<BR>
 https://github.com/bj97301/voteForPhil/blob/master/voteForPhilSeleniumScript.html
 
